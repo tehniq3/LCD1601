@@ -10,7 +10,7 @@
  Original sketch prints "Hello World!" to the LCD
  and shows the time.
 
-  The circuit:
+  The circuit http://nicuflorica.blogspot.ro/2013/01/arduino-si-un-afisaj-lcd-clasic-16.html
  * LCD RS pin to digital pin 12
  * LCD Enable pin to digital pin 11
  * LCD D4 pin to digital pin 5
@@ -31,13 +31,11 @@
  modified 22 Nov 2010
  by Tom Igoe
 
- This example code is in the public domain.
-
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
  adapted schematic by Nicu Florica (niq_ro) from http://ww.niq.go.ro 
 
 ideea and base sketch for LCD1601 by Nick Norton from http://www.nicknorton.net/
-viodeo: https://www.youtube.com/watch?v=boK49DHw7PM
+video: https://www.youtube.com/watch?v=boK49DHw7PM
 */
 
 // include the library code:
